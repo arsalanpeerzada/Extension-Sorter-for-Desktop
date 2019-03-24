@@ -1,0 +1,5 @@
+E:\arsalan\MyC#Practice\desktop manager\extension sorter\extension sorter\bin\Debug\extension sorter.exe
+E:\arsalan\MyC#Practice\desktop manager\extension sorter\extension sorter\bin\Debug\extension sorter.pdb
+E:\arsalan\MyC#Practice\desktop manager\extension sorter\extension sorter\obj\x86\Debug\extension sorter.exe
+E:\arsalan\MyC#Practice\desktop manager\extension sorter\extension sorter\obj\x86\Debug\extension sorter.pdb
+E:\arsalan\MyC#Practice\desktop manager\extension sorter\extension sorter\obj\x86\Debug\extension sorter.csprojResolveAssemblyReference.cache
